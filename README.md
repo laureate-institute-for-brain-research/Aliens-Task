@@ -1,3 +1,5 @@
+![alt text](main_cover.PNG "Alients Task")
+
 # Aliens Task
 
 StimTool, updated for PsychoPy3
